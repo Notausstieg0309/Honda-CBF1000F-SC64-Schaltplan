@@ -1,0 +1,30 @@
+<document type="ProfiCAD ppd" version="9.0" fG="4e895870-5efc-411f-b3eb-4cfd9a780e0b" lG="d75659e1-2afd-49ba-8322-f08f96517e4b">
+<repo>
+<ppd name="Elektronik\passive Komponenten\Motorrad (Honda)\Masse.ppd" fG="3da572e5-4aa6-4847-901d-880376aa72ad" lG="13b08762-c354-44fc-8fb5-b483f13890c5">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-20,0,20,0,"/>
+<outlet x="0" y="0"/>
+<polyline op-lw="1" pts="10,0,0,10,"/>
+<polyline op-lw="1" pts="0,0,-10,10,"/>
+<polyline op-lw="1" pts="-10,0,-20,10,"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-10,-30,10,-30,"/>
+<polyline pts="10,-30,10,-8,"/>
+<polyline pts="-10,-8,-10,-30,"/>
+<outlet x="0" y="-30"/>
+<arc left="-20" top="-10" right="20" bottom="30" bX="-10" bY="-16" eX="10" eY="-17"/>
+<ellipse left="-10" top="0" right="10" bottom="20" op-lw="1"/>
+<polyline pts="0,30,0,80,"/>
+<polyline op-lw="4" pts="-18,80,16,80,"/>
+<polyline pts="10,80,0,90,"/>
+<polyline pts="0,80,-10,90,"/>
+<polyline pts="-10,80,-20,90,"/>
+</layer>
+</layers>
+</document>

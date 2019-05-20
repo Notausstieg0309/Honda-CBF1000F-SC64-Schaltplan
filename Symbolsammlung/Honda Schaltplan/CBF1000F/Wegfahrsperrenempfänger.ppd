@@ -1,0 +1,23 @@
+<document type="ProfiCAD ppd" version="9.0" fG="75f52e5b-a6ce-4bc3-9d7a-298e93399a61" lG="435d8ba2-f6cd-44dc-8310-44ef47bc38e2">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-50" top="-50" right="50" bottom="40"/>
+<outlet x="-10" y="40"/>
+<outlet x="10" y="40"/>
+<outlet x="30" y="40"/>
+<outlet x="-30" y="40"/>
+<polyline pts="-30,40,-30,30,"/>
+<ellipse left="-35" top="20" right="-25" bottom="30"/>
+<polyline pts="-10,40,-10,30,"/>
+<ellipse left="-15" top="20" right="-5" bottom="30"/>
+<polyline pts="10,40,10,30,"/>
+<ellipse left="5" top="20" right="15" bottom="30"/>
+<polyline pts="30,40,30,30,"/>
+<ellipse left="25" top="20" right="35" bottom="30"/>
+<text x="-30" y="11" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">GND</text>
+<text x="-10" y="11" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">Vcc</text>
+<text x="10" y="11" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">RxDT</text>
+<text x="30" y="11" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">TxCT</text>
+</layer>
+</layers>
+</document>

@@ -1,0 +1,63 @@
+<document type="ProfiCAD ppd" version="9.0" fG="4e895870-5efc-411f-b3eb-4cfd9a780e0b" lG="f93ede65-3522-473b-8e28-55494bab06e9">
+<layers current="0">
+<layer name="0" v="1">
+<roundRect left="25" top="-22" right="104" bottom="23" rX="20" rY="20"/>
+<arc left="-85" top="-40" right="-5" bottom="40" bX="-3" bY="-39" eX="-16" eY="-36"/>
+<arc left="-85" top="-40" right="-5" bottom="40" bX="-22" bY="-32" eX="-32" eY="-22"/>
+<arc left="-85" top="-40" right="-5" bottom="40" bX="-36" bY="-16" eX="-39" eY="-3"/>
+<arc left="-85" top="-40" right="-5" bottom="40" bX="-39" bY="3" eX="-36" eY="16"/>
+<arc left="-85" top="-40" right="-5" bottom="40" bX="-32" bY="22" eX="-22" eY="32"/>
+<arc left="-85" top="-40" right="-5" bottom="40" bX="-16" bY="36" eX="-3" eY="39"/>
+<arc left="-85" top="-40" right="-5" bottom="40" bX="3" bY="39" eX="16" eY="36"/>
+<arc left="-85" top="-40" right="-5" bottom="40" bX="22" bY="32" eX="32" eY="22"/>
+<arc left="-85" top="-40" right="-5" bottom="40" bX="36" bY="16" eX="39" eY="3"/>
+<arc left="-85" top="-40" right="-5" bottom="40" bX="39" bY="-3" eX="36" eY="-16"/>
+<arc left="-85" top="-40" right="-5" bottom="40" bX="32" bY="-22" eX="22" eY="-32"/>
+<arc left="-85" top="-40" right="-5" bottom="40" bX="16" bY="-36" eX="3" eY="-39"/>
+<polyline end="2" pts="-62,-36,-70,-50,"/>
+<polyline pts="-75,-47,-67,-33,"/>
+<polyline pts="-28,36,-20,51,"/>
+<polyline pts="-14,48,-22,33,"/>
+<polyline end="1" pts="-42,-40,-42,-55,"/>
+<polyline end="1" pts="-47,-55,-47,-40,"/>
+<ellipse left="-53" top="-8" right="-37" bottom="8" op-lw="1"/>
+<polyline end="1" pts="-47,41,-47,57,"/>
+<polyline end="1" pts="-42,57,-42,41,"/>
+<polyline end="1" pts="-86,-3,-100,-3,"/>
+<polyline end="1" pts="-100,2,-86,2,"/>
+<polyline end="1" pts="-4,3,11,3,"/>
+<polyline end="1" pts="11,-3,-5,-3,"/>
+<polyline end="1" pts="-28,-36,-20,-50,"/>
+<polyline end="2" pts="-24,-33,-15,-48,"/>
+<polyline pts="-63,37,-71,51,"/>
+<polyline pts="-67,33,-76,49,"/>
+<polyline end="2" pts="6,26,-9,17,"/>
+<polyline pts="-78,-23,-92,-31,"/>
+<polyline pts="-81,-18,-95,-26,"/>
+<polyline pts="-11,22,3,30,"/>
+<polyline pts="-79,22,-93,30,"/>
+<polyline end="2" pts="-9,-17,6,-26,"/>
+<polyline pts="-82,17,-96,25,"/>
+<polyline pts="-12,-22,2,-30,"/>
+<polyline pts="-47,57,-42,57,"/>
+<polyline pts="-20,51,-15,48,"/>
+<polyline end="2" pts="3,30,6,25,"/>
+<polyline pts="12,3,12,-3,"/>
+<polyline end="1" pts="5,-27,3,-30,"/>
+<polyline pts="-15,-48,-19,-50,"/>
+<polyline pts="-42,-56,-47,-56,"/>
+<polyline pts="-70,-50,-75,-47,"/>
+<polyline pts="-92,-31,-95,-26,"/>
+<polyline pts="-100,-3,-100,2,"/>
+<polyline end="2" pts="-97,25,-93,31,"/>
+<polyline pts="-76,49,-71,52,"/>
+<polybezier op-lw="1" pts="35,10,40,10,39,14,43,14,49,14,55,0,47,0,39,0,47,14,55,14,63,14,65,0,59,0,51,0,57,14,65,14,69,14,75,10,75,10,"/>
+<polyline pts="75,10,105,10,"/>
+<polyline pts="35,10,35,-10,"/>
+<polyline pts="35,-10,105,-10,"/>
+<outlet x="105" y="10"/>
+<outlet x="105" y="-10"/>
+<rect left="25" top="-10" right="15" bottom="10"/>
+</layer>
+</layers>
+</document>

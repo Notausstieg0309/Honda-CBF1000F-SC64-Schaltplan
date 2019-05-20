@@ -1,0 +1,24 @@
+<document type="ProfiCAD ppd" version="9.0" fG="00861af8-d10a-4e69-bb37-8299002219e5" lG="82731e4a-7cb9-4307-84e3-d5625d51e748">
+<layers current="0">
+<layer name="0" v="1">
+<outlet x="-50" y="-70"/>
+<outlet x="-30" y="-70"/>
+<outlet x="-10" y="-70"/>
+<rect left="-70" top="-70" right="10" bottom="-30"/>
+<polyline op-lw="1" pts="-70,-50,-40,-50,"/>
+<polyline op-lw="1" pts="-40,-50,-40,-60,"/>
+<polyline op-lw="1" pts="-40,-60,-20,-60,"/>
+<polyline op-lw="1" pts="-20,-60,-20,-50,"/>
+<polyline op-lw="1" pts="-20,-50,10,-50,"/>
+<rect left="30" top="-70" right="70" bottom="-30" op-fd="1" op-fc="0"/>
+<outlet x="60" y="-70"/>
+<outlet x="40" y="-70"/>
+<polyline op-lw="1" op-lc="16777215" pts="30,-50,45,-50,"/>
+<polyline op-lw="1" op-lc="16777215" pts="45,-50,45,-60,"/>
+<polyline op-lw="1" op-lc="16777215" pts="45,-60,55,-60,"/>
+<polyline op-lw="1" op-lc="16777215" pts="55,-60,55,-50,"/>
+<polyline op-lw="1" op-lc="16777215" pts="55,-50,70,-50,"/>
+<rect left="-90" top="-30" right="90" bottom="70"/>
+</layer>
+</layers>
+</document>

@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0" fG="d02cf22b-b9d8-45f5-a13f-0130bb042c02" lG="38ac6c4a-7b4a-44e8-8281-d9eae1cb7115">
+<layers current="0">
+<layer name="0" v="1">
+<ellipse left="-40" top="-39" right="40" bottom="41"/>
+<text x="-1" y="-15" f="70,0,0,0,Arial,000000" l="1" al="9">FAN</text>
+<text x="-1" y="17" f="90,0,0,0,Arial,000000" l="1" al="9">M</text>
+<outlet x="10" y="40"/>
+<outlet x="-10" y="40"/>
+</layer>
+</layers>
+</document>

@@ -1,0 +1,54 @@
+<document type="ProfiCAD ppd" version="9.0" fG="cdda4136-ad99-445b-acdd-b8d13c75bba4" lG="c7273f1c-e5d9-4a08-ab9e-27f8f04439bc">
+<repo>
+<ppd name="Elektronik\passive Komponenten\Motorrad (Honda)\Seitenständerschalter.ppd" fG="cdda4136-ad99-445b-acdd-b8d13c75bba4" lG="1ca0b24b-cca9-4327-a1e3-4d66bd81670d">
+<repo>
+<ppd name="Elektronik\passive Komponenten\Motorrad (Honda)\ProfiCADPPD1.ppd" fG="cdda4136-ad99-445b-acdd-b8d13c75bba4" lG="507d20b0-f38f-481c-ad38-ae7eb396bdc0">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="1700,350,1600,340,"/>
+<roundRect left="-310" top="-320" right="340" bottom="270" rX="40" rY="40"/>
+<text x="-139" y="-9" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">Text</text>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<polyline op-lw="10" pts="0,0,130,230,"/>
+<ellipse left="-300" top="-300" right="300" bottom="300" op-lw="10"/>
+<ellipse left="100" top="-260" right="160" bottom="-200"/>
+<polyline op-lw="10" pts="-30,0,-300,0,"/>
+<ellipse left="-30" top="-30" right="30" bottom="30" op-fd="1" op-fc="16777215"/>
+<ellipse left="100" top="200" right="160" bottom="260" op-fd="1" op-fc="16777215"/>
+<text x="191" y="-349" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">OBEN</text>
+<text x="61" y="371" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">UNTEN</text>
+<outlet x="-300" y="0"/>
+<outlet x="160" y="-240"/>
+</layer>
+</layers>
+</ppd>
+<ppd name="Elektronik\passive Komponenten\Motorrad (Honda)\ProfiCADPPD1.ppd" fG="cdda4136-ad99-445b-acdd-b8d13c75bba4" lG="507d20b0-f38f-481c-ad38-ae7eb396bdc0">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="1700,350,1600,340,"/>
+<roundRect left="-310" top="-320" right="340" bottom="270" rX="40" rY="40"/>
+<text x="-139" y="-9" f="155,0,0,0,Lucida Sans Unicode,000000" l="1" al="9">Text</text>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<ellipse left="-50" top="-50" right="50" bottom="50"/>
+<polyline pts="0,0,-50,0,"/>
+<outlet x="25" y="-45"/>
+<outlet x="-50" y="0"/>
+<polyline pts="26,38,0,0,"/>
+<ellipse left="15" top="35" right="25" bottom="45" op-lw="1"/>
+<ellipse left="-5" top="-5" right="5" bottom="5" op-lw="1" op-fd="1" op-fc="16777215"/>
+<ellipse left="15" top="-45" right="25" bottom="-35" op-lw="1"/>
+<text x="51" y="-49" f="40,0,0,0,Arial,000000" l="1" al="9">OBEN</text>
+<text x="51" y="51" f="40,0,0,0,Arial,000000" l="1" al="9">UNTEN</text>
+</layer>
+</layers>
+</document>

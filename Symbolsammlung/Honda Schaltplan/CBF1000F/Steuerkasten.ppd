@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0" fG="75f52e5b-a6ce-4bc3-9d7a-298e93399a61" lG="b036d598-b3fd-4ce7-928f-2cd863c11d45">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-130" top="-40" right="130" bottom="40"/>
+<outlet x="-10" y="40"/>
+<outlet x="10" y="40"/>
+<outlet x="30" y="40"/>
+<outlet x="-30" y="40"/>
+<outlet x="50" y="40"/>
+<outlet x="70" y="40"/>
+<outlet x="90" y="40"/>
+<outlet x="110" y="40"/>
+<outlet x="-50" y="40"/>
+<outlet x="-70" y="40"/>
+<outlet x="-90" y="40"/>
+<outlet x="-110" y="40"/>
+</layer>
+</layers>
+</document>

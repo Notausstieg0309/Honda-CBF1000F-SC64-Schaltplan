@@ -1,0 +1,35 @@
+<document type="ProfiCAD ppd" version="9.0" fG="75f52e5b-a6ce-4bc3-9d7a-298e93399a61" lG="2027cd9c-0e10-4a59-a080-3ab784624c51">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-140" top="-100" right="120" bottom="100"/>
+<polyline op-lw="1" pts="-140,-60,120,-60,"/>
+<text x="1" y="-119" f="60,0,0,0,Arial,000000" l="1" al="9">BLINKERSCHALTER</text>
+<text x="-29" y="-79" f="60,0,0,0,Arial,000000" l="1" al="9">W</text>
+<text x="31" y="-79" f="60,0,0,0,Arial,000000" l="1" al="9">R</text>
+<text x="91" y="-79" f="60,0,0,0,Arial,000000" l="1" al="9">L</text>
+<polyline op-lw="1" pts="-140,-100,-60,-60,"/>
+<polyline op-lw="1" pts="-60,-60,-60,-100,"/>
+<polyline op-lw="1" pts="0,-60,0,-100,"/>
+<polyline op-lw="1" pts="60,-60,60,-100,"/>
+<polyline op-lw="1" pts="-60,-60,-60,100,"/>
+<polyline op-lw="1" pts="-140,-20,120,-20,"/>
+<polyline op-lw="1" pts="-140,20,120,20,"/>
+<polyline op-lw="1" pts="-140,60,120,60,"/>
+<polyline op-lw="1" pts="0,-60,0,100,"/>
+<polyline op-lw="1" pts="60,-60,60,100,"/>
+<ellipse left="-40" top="-50" right="-20" bottom="-30"/>
+<ellipse left="80" top="-50" right="100" bottom="-30"/>
+<polyline op-lw="1" pts="-20,-40,80,-40,"/>
+<ellipse left="-40" top="30" right="-20" bottom="50"/>
+<ellipse left="20" top="30" right="40" bottom="50"/>
+<polyline op-lw="1" pts="-20,40,20,40,"/>
+<text x="-99" y="-39" f="80,1,0,0,Wingdings,000000" l="1" al="9">ï</text>
+<text x="-99" y="41" f="80,1,0,0,Wingdings,000000" l="1" al="9">ð</text>
+<text x="-99" y="1" f="60,0,0,0,Arial,000000" l="1" al="9">N</text>
+<text x="-99" y="81" f="60,0,0,0,Arial,000000" l="1" al="9">FARBE</text>
+<roundRect left="-56" top="64" right="-5" bottom="95" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="10066329"/>
+<roundRect left="4" top="64" right="55" bottom="95" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="16760919"/>
+<roundRect left="64" top="64" right="115" bottom="95" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="26367"/>
+</layer>
+</layers>
+</document>

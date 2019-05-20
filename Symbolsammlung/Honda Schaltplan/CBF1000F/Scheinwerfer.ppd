@@ -1,0 +1,31 @@
+<document type="ProfiCAD ppd" version="9.0" fG="770b0d5f-99f3-4b33-9c3f-46c7e78a7eb5" lG="0c2d56b3-6f86-4331-a096-b8ac5c71b8a1">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="100" top="-30" right="120" bottom="30"/>
+<rect left="100" top="-5" right="110" bottom="5"/>
+<rect left="100" top="-50" right="90" bottom="50"/>
+<polyline pts="80,50,80,-50,"/>
+<polyline pts="80,-50,-100,-50,"/>
+<polyline pts="80,50,-100,50,"/>
+<polyline pts="80,35,90,30,"/>
+<polyline pts="90,30,80,25,"/>
+<polyline pts="80,-25,90,-30,"/>
+<polyline pts="90,-30,80,-35,"/>
+<arc left="-150" top="-50" right="-50" bottom="50" bX="0" bY="-50" eX="0" eY="50"/>
+<polyline pts="80,-30,-60,-30,"/>
+<polyline pts="-60,-30,-60,0,"/>
+<polyline pts="80,30,-100,30,"/>
+<polyline pts="-100,30,-130,0,"/>
+<ellipse left="-133" top="-3" right="-127" bottom="3" op-fd="1" op-fc="0"/>
+<ellipse left="-63" top="-3" right="-57" bottom="3" op-fd="1" op-fc="0"/>
+<polyline pts="30,-50,30,-100,"/>
+<polyline pts="30,-100,20,-100,"/>
+<polyline pts="20,-100,20,100,"/>
+<polyline pts="20,100,30,100,"/>
+<polyline pts="30,100,30,50,"/>
+<outlet x="120" y="10"/>
+<outlet x="120" y="-10"/>
+<polybezier op-lw="1" pts="-130,0,-126,-28,-90,-28,-90,0,-90,28,-110,28,-110,0,-110,-28,-70,-28,-70,0,-70,28,-92,28,-92,0,-92,-28,-64,-28,-60,0,"/>
+</layer>
+</layers>
+</document>

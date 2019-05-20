@@ -1,0 +1,32 @@
+<document type="ProfiCAD ppd" version="9.0" fG="75f52e5b-a6ce-4bc3-9d7a-298e93399a61" lG="b7b0b756-f55f-46cd-baab-dc18c898f37a">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-130" top="-80" right="130" bottom="80"/>
+<polyline op-lw="1" pts="-130,-40,130,-40,"/>
+<text x="1" y="-99" f="60,0,0,0,Arial,000000" l="1" al="9">WARNBLINKERSCHALTER</text>
+<text x="-19" y="-59" f="60,0,0,0,Arial,000000" l="1" al="9">WI</text>
+<text x="41" y="-59" f="60,0,0,0,Arial,000000" l="1" al="9">WR</text>
+<text x="101" y="-59" f="60,0,0,0,Arial,000000" l="1" al="9">WL</text>
+<polyline op-lw="1" pts="-130,-80,-50,-40,"/>
+<polyline op-lw="1" pts="-50,-40,-50,-80,"/>
+<polyline op-lw="1" pts="10,-40,10,-80,"/>
+<polyline op-lw="1" pts="70,-40,70,-80,"/>
+<polyline op-lw="1" pts="-50,-40,-50,80,"/>
+<polyline op-lw="1" pts="-130,0,130,0,"/>
+<polyline op-lw="1" pts="-130,40,130,40,"/>
+<polyline op-lw="1" pts="10,-40,10,80,"/>
+<polyline op-lw="1" pts="70,-40,70,80,"/>
+<ellipse left="-30" top="-30" right="-10" bottom="-10"/>
+<ellipse left="90" top="-30" right="110" bottom="-10"/>
+<polyline op-lw="1" pts="-10,-20,30,-20,"/>
+<text x="-89" y="21" f="60,0,0,0,Arial,000000" l="1" al="9">OFF</text>
+<text x="-89" y="61" f="60,0,0,0,Arial,000000" l="1" al="9">FARBE</text>
+<roundRect left="-46" top="44" right="5" bottom="75" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="10066329"/>
+<roundRect left="14" top="44" right="65" bottom="75" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="16760919"/>
+<roundRect left="74" top="44" right="125" bottom="75" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="26367"/>
+<text x="-89" y="-19" f="60,0,0,0,Arial,000000" l="1" al="9">ON</text>
+<ellipse left="30" top="-30" right="50" bottom="-10"/>
+<polyline op-lw="1" pts="50,-20,90,-20,"/>
+</layer>
+</layers>
+</document>

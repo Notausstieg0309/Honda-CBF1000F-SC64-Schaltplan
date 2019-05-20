@@ -1,0 +1,44 @@
+<document type="ProfiCAD ppd" version="9.0" fG="df1ec738-90be-4b1b-9410-8ba96630b92b" lG="8906bebe-cfa2-4859-8eec-c51b037dc428">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-170" top="-98" right="172" bottom="92"/>
+<outlet x="-141" y="120"/>
+<outlet x="-121" y="120"/>
+<outlet x="-101" y="120"/>
+<outlet x="-81" y="120"/>
+<outlet x="-61" y="120"/>
+<outlet x="-41" y="120"/>
+<outlet x="-21" y="120"/>
+<outlet x="-1" y="120"/>
+<outlet x="19" y="120"/>
+<outlet x="39" y="120"/>
+<outlet x="59" y="120"/>
+<outlet x="79" y="120"/>
+<outlet x="99" y="120"/>
+<outlet x="119" y="120"/>
+<outlet x="139" y="120"/>
+<text x="-141" y="83" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">DIAG</text>
+<text x="-121" y="83" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">GND</text>
+<text x="-101" y="83" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">MOTOR GND</text>
+<text x="-81" y="83" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">SCS</text>
+<text x="-61" y="83" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">+</text>
+<text x="-41" y="83" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">-</text>
+<text x="-21" y="83" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">+</text>
+<text x="-1" y="83" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">-</text>
+<text x="19" y="83" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">FAIL SAFE RELAY</text>
+<text x="39" y="83" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">+ MOTOR</text>
+<text x="59" y="83" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">IGNITION POWER</text>
+<text x="79" y="83" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">STOP SWITCH</text>
+<text x="99" y="83" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">ABS WARN</text>
+<text x="119" y="83" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">SP PULSE OUT</text>
+<rect left="-155" top="120" right="160" bottom="92"/>
+<polyline op-lw="1" pts="-154,104,-10,104,"/>
+<polyline op-lw="1" pts="-10,114,-10,104,"/>
+<polyline op-lw="1" pts="8,104,8,114,"/>
+<polyline op-lw="1" pts="8,104,160,104,"/>
+<polyline op-lw="1" pts="-10,114,8,114,"/>
+<text x="-51" y="65" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">FRONT VSP</text>
+<text x="-9" y="65" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">REAR VSP</text>
+</layer>
+</layers>
+</document>

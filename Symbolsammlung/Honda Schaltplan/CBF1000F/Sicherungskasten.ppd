@@ -1,0 +1,92 @@
+<document type="ProfiCAD ppd" version="9.0" fG="5d392054-abf9-49c9-b8eb-c98006052d5a" lG="63e83b55-1ba4-44a1-aa84-3c821817fd62">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-170" top="-80" right="170" bottom="80"/>
+<outlet x="-100" y="-80"/>
+<outlet x="20" y="-80"/>
+<outlet x="-80" y="-80"/>
+<outlet x="-60" y="-80"/>
+<outlet x="-40" y="-80"/>
+<outlet x="-20" y="-80"/>
+<outlet x="0" y="-80"/>
+<outlet x="40" y="-80"/>
+<outlet x="60" y="-80"/>
+<outlet x="100" y="-80"/>
+<outlet x="140" y="-80"/>
+<polyline pts="140,-80,140,60,"/>
+<polybezier op-lw="1" pts="63,-42,68,-36,68,-31,60,-26,53,-20,53,-16,58,-11,"/>
+<ellipse left="56" top="-11" right="64" bottom="-3"/>
+<polyline pts="60,-3,60,1,"/>
+<ellipse left="56" top="-50" right="64" bottom="-42"/>
+<polybezier op-lw="1" pts="43,-42,48,-36,48,-31,40,-26,33,-20,33,-16,38,-11,"/>
+<ellipse left="36" top="-11" right="44" bottom="-3"/>
+<polyline pts="40,-3,40,1,"/>
+<ellipse left="36" top="-50" right="44" bottom="-42"/>
+<polybezier op-lw="1" pts="23,-42,28,-36,28,-31,20,-26,13,-20,13,-16,18,-11,"/>
+<ellipse left="16" top="-11" right="24" bottom="-3"/>
+<polyline pts="20,-3,20,1,"/>
+<ellipse left="16" top="-50" right="24" bottom="-42"/>
+<polybezier op-lw="1" pts="3,-42,8,-36,8,-31,0,-26,-7,-20,-7,-16,-2,-11,"/>
+<ellipse left="-4" top="-11" right="4" bottom="-3"/>
+<polyline pts="0,-3,0,1,"/>
+<ellipse left="-4" top="-50" right="4" bottom="-42"/>
+<polybezier op-lw="1" pts="-17,-42,-12,-36,-12,-31,-20,-26,-27,-20,-27,-16,-22,-11,"/>
+<ellipse left="-24" top="-11" right="-16" bottom="-3"/>
+<polyline pts="-20,-3,-20,1,"/>
+<ellipse left="-24" top="-50" right="-16" bottom="-42"/>
+<polybezier op-lw="1" pts="-37,-42,-32,-36,-32,-31,-40,-26,-47,-20,-47,-16,-42,-11,"/>
+<ellipse left="-44" top="-11" right="-36" bottom="-3"/>
+<polyline pts="-40,-3,-40,1,"/>
+<ellipse left="-44" top="-50" right="-36" bottom="-42"/>
+<polyline pts="-40,-80,-40,-50,"/>
+<polyline pts="-20,-80,-20,-50,"/>
+<polyline pts="0,-80,0,-50,"/>
+<polyline pts="20,-80,20,-50,"/>
+<polyline pts="40,-80,40,-50,"/>
+<polyline pts="60,-80,60,-50,"/>
+<polyline pts="60,0,60,30,"/>
+<polyline pts="100,-80,100,30,"/>
+<polyline pts="100,30,40,30,"/>
+<polyline pts="40,30,40,0,"/>
+<polyline pts="20,0,20,50,"/>
+<polyline pts="0,0,0,50,"/>
+<polyline pts="-20,0,-20,50,"/>
+<polyline pts="-40,0,-40,50,"/>
+<polyline pts="-40,50,-40,60,"/>
+<polyline pts="-40,60,140,60,"/>
+<polyline pts="-20,50,-20,60,"/>
+<polyline pts="0,50,0,60,"/>
+<polyline pts="20,50,20,60,"/>
+<ellipse left="-23" top="57" right="-17" bottom="63" op-fd="1" op-fc="0"/>
+<ellipse left="-3" top="57" right="3" bottom="63" op-fd="1" op-fc="0"/>
+<ellipse left="17" top="57" right="23" bottom="63" op-fd="1" op-fc="0"/>
+<text x="-30" y="36" f="60,0,0,0,Arial,000000" l="1" al="9">D</text>
+<text x="-10" y="36" f="60,0,0,0,Arial,000000" l="1" al="9">C</text>
+<text x="10" y="36" f="60,0,0,0,Arial,000000" l="1" al="9">F</text>
+<text x="30" y="16" f="60,0,0,0,Arial,000000" l="1" al="9">A</text>
+<text x="50" y="16" f="60,0,0,0,Arial,000000" l="1" al="9">B</text>
+<text x="-50" y="36" f="60,0,0,0,Arial,000000" l="1" al="9">E</text>
+<polyline pts="-100,-80,-100,-5,"/>
+<polyline pts="-100,-5,-125,-5,"/>
+<polyline pts="-125,-5,-125,-25,"/>
+<polyline pts="-125,-25,-145,-25,"/>
+<polyline pts="-145,-25,-145,-20,"/>
+<polygon op-fd="1" op-fc="0" pts="-155,-20,-135,-20,-145,-5,"/>
+<polyline op-lw="3" end="1" pts="-155,-5,-135,-5,"/>
+<polyline pts="-145,-5,-145,5,"/>
+<polyline op-lw="3" end="1" pts="-155,15,-135,15,"/>
+<polygon op-fd="1" op-fc="0" pts="-155,30,-135,30,-145,15,"/>
+<polyline pts="-145,5,-80,5,"/>
+<ellipse left="-148" top="2" right="-142" bottom="8" op-fd="1" op-fc="0"/>
+<polyline pts="-145,5,-145,15,"/>
+<polyline pts="-60,-80,-60,15,"/>
+<polyline pts="-60,15,-125,15,"/>
+<polyline pts="-125,15,-125,35,"/>
+<polyline pts="-145,30,-145,35,"/>
+<polyline pts="-145,35,-125,35,"/>
+<polyline pts="-80,-80,-80,5,"/>
+<roundRect left="-160" top="-35" right="-115" bottom="45" rX="20" rY="20"/>
+<ellipse left="57" top="27" right="63" bottom="33" op-fd="1" op-fc="0"/>
+</layer>
+</layers>
+</document>

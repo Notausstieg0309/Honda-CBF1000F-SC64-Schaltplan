@@ -1,0 +1,24 @@
+<document type="ProfiCAD ppd" version="9.0" fG="09d66e2f-729c-4b75-be32-82a9a746a34a" lG="662265f0-e5c7-4736-b10a-a291ec644e01">
+<layers current="0">
+<layer name="0" v="1">
+<ellipse left="-70" top="-70" right="70" bottom="70"/>
+<ellipse left="-65" top="-65" right="65" bottom="65" op-lw="1"/>
+<ellipse left="-10" top="-10" right="10" bottom="10" op-lw="1"/>
+<ellipse left="-5" top="-5" right="5" bottom="5" op-lw="1"/>
+<polyline pts="100,-20,100,-40,"/>
+<polyline pts="100,-40,58,-40,"/>
+<polyline pts="100,-20,68,-20,"/>
+<polyline pts="58,40,100,40,"/>
+<outlet x="100" y="-30"/>
+<outlet x="100" y="30"/>
+<polyline pts="100,40,100,20,"/>
+<polyline pts="100,20,68,20,"/>
+<polyline pts="74,20,74,40,"/>
+<polyline pts="74,26,84,26,"/>
+<polyline pts="74,34,84,34,"/>
+<polyline pts="74,-40,74,-20,"/>
+<polyline pts="74,-34,84,-34,"/>
+<polyline pts="74,-26,84,-26,"/>
+</layer>
+</layers>
+</document>

@@ -1,0 +1,16 @@
+<document type="ProfiCAD ppd" version="9.0" fG="0dcb7fac-7646-43ed-9216-dce37d4997e4" lG="20b8ec11-dbc4-4935-a2d0-900ae362982d">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="20" top="-30" right="60" bottom="30"/>
+<rect left="-20" top="-40" right="20" bottom="40"/>
+<rect left="-40" top="-30" right="-20" bottom="30"/>
+<polyline pts="-30,-30,-35,-10,"/>
+<polyline pts="-35,-10,-30,-10,"/>
+<polyline pts="-30,-10,-30,10,"/>
+<polyline pts="-30,10,-35,10,"/>
+<polyline pts="-35,10,-30,30,"/>
+<outlet x="-40" y="-10"/>
+<outlet x="-40" y="10"/>
+</layer>
+</layers>
+</document>

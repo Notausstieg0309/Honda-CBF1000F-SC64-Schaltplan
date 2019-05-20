@@ -1,0 +1,19 @@
+<document type="ProfiCAD ppd" version="9.0" fG="99c020a1-be61-4478-92b0-ac504255ae97" lG="34d04358-81a0-4d97-a103-887e7530e836">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-10" top="-40" right="-50" bottom="40"/>
+<rect left="0" top="40" right="0" bottom="20"/>
+<outlet x="-50" y="-10"/>
+<outlet x="-50" y="10"/>
+<outlet x="-50" y="30"/>
+<outlet x="-50" y="-30"/>
+<polyline pts="-30,-40,-30,-10,"/>
+<polyline pts="-30,-10,-40,-10,"/>
+<polyline pts="-40,-10,-40,10,"/>
+<polyline pts="-40,10,-30,10,"/>
+<polyline pts="-30,10,-30,40,"/>
+<rect left="-10" top="-50" right="80" bottom="50"/>
+<text x="31" y="1" f="60,0,0,0,Arial,000000" l="1" al="9">IACV</text>
+</layer>
+</layers>
+</document>

@@ -1,0 +1,33 @@
+<document type="ProfiCAD ppd" version="9.0" fG="9a1c28a5-1961-441e-bc83-c4fa77dc7a4b" lG="5e6b5fcc-e699-44d7-977e-ddaab90e0f24">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="25,-40,85,-40,"/>
+<roundRect left="19" top="-20" right="90" bottom="20" rX="10" rY="10"/>
+<outlet x="35" y="-40"/>
+<outlet x="55" y="-40"/>
+<outlet x="75" y="-40"/>
+<rect left="14" top="-5" right="19" bottom="5"/>
+<ellipse left="-36" top="-20" right="4" bottom="20"/>
+<polyline pts="4,-5,9,-5,"/>
+<polyline pts="4,5,9,5,"/>
+<polybezier pts="9,-5,10,-1,10,1,9,5,"/>
+<polyline pts="-21,20,-21,25,"/>
+<polyline pts="-11,20,-11,25,"/>
+<polybezier pts="-21,25,-17,26,-15,26,-11,25,"/>
+<polyline pts="-36,-5,-41,-5,"/>
+<polyline pts="-36,5,-41,5,"/>
+<polybezier pts="-41,-5,-42,-1,-42,2,-41,5,"/>
+<polyline pts="-21,-20,-21,-25,"/>
+<polyline pts="-11,-20,-11,-25,"/>
+<polybezier pts="-21,-25,-18,-26,-14,-26,-11,-25,"/>
+<ellipse left="-20" top="-4" right="-12" bottom="4" op-lw="1"/>
+<polyline pts="25,-20,25,-40,"/>
+<polyline pts="85,-40,85,-20,"/>
+<polyline op-lw="1" pts="25,-30,50,-30,"/>
+<polyline op-lw="1" pts="50,-30,50,-35,"/>
+<polyline op-lw="1" pts="50,-35,60,-35,"/>
+<polyline op-lw="1" pts="60,-35,60,-30,"/>
+<polyline op-lw="1" pts="60,-30,85,-30,"/>
+</layer>
+</layers>
+</document>

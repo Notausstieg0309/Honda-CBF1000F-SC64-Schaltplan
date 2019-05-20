@@ -1,0 +1,44 @@
+<document type="ProfiCAD ppd" version="9.0" fG="75f52e5b-a6ce-4bc3-9d7a-298e93399a61" lG="69bd8393-b9ba-4e46-892c-ecd160540638">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-160" top="-80" right="160" bottom="80"/>
+<polyline op-lw="1" pts="-160,-40,160,-40,"/>
+<text x="1" y="-99" f="60,0,0,0,Arial,000000" l="1" al="9">ANLASSERSCHALTER</text>
+<text x="-49" y="-59" f="60,0,0,0,Arial,000000" l="1" al="9">ST</text>
+<text x="11" y="-59" f="60,0,0,0,Arial,000000" l="1" al="9">IG</text>
+<polyline op-lw="1" pts="-160,-80,-80,-40,"/>
+<polyline op-lw="1" pts="-80,-40,-80,-80,"/>
+<polyline op-lw="1" pts="-20,-40,-20,-80,"/>
+<polyline op-lw="1" pts="-80,-40,-80,80,"/>
+<polyline op-lw="1" pts="-160,0,160,0,"/>
+<polyline op-lw="1" pts="-160,40,160,40,"/>
+<polyline op-lw="1" pts="-20,-40,-20,80,"/>
+<ellipse left="-60" top="10" right="-40" bottom="30"/>
+<ellipse left="0" top="10" right="20" bottom="30"/>
+<polyline op-lw="1" pts="-40,20,0,20,"/>
+<text x="-119" y="61" f="60,0,0,0,Arial,000000" l="1" al="9">FARBE</text>
+<roundRect left="-76" top="44" right="-25" bottom="75" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="61940"/>
+<roundRect left="-16" top="44" right="35" bottom="75" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="0"/>
+<polyline op-lw="6" op-lc="255" end="2" pts="-25,60,-75,60,"/>
+<polyline op-lw="3" pts="-144,-12,-98,-12,"/>
+<polyline op-lw="3" pts="-132,-14,-132,-28,"/>
+<polyline op-lw="3" pts="-132,-28,-108,-28,"/>
+<polyline op-lw="3" pts="-108,-28,-108,-14,"/>
+<polyline op-lw="3" pts="-144,28,-98,28,"/>
+<polyline op-lw="3" pts="-132,26,-132,22,"/>
+<polyline op-lw="3" pts="-132,22,-108,22,"/>
+<polyline op-lw="3" pts="-108,22,-108,26,"/>
+<polyline op-lw="1" pts="40,-80,40,80,"/>
+<polyline op-lw="1" pts="100,-80,100,80,"/>
+<ellipse left="60" top="-30" right="80" bottom="-10"/>
+<ellipse left="120" top="-30" right="140" bottom="-10"/>
+<polyline op-lw="1" pts="80,-20,120,-20,"/>
+<text x="71" y="-59" f="60,0,0,0,Arial,000000" l="1" al="9">BAT3</text>
+<text x="131" y="-59" f="60,0,0,0,Arial,000000" l="1" al="9">HL</text>
+<roundRect left="44" top="44" right="95" bottom="75" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="0"/>
+<roundRect left="104" top="44" right="155" bottom="75" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="16737536"/>
+<polyline op-lw="6" op-lc="255" end="2" pts="95,60,45,60,"/>
+<polyline op-lw="6" op-lc="15395562" end="2" pts="155,60,105,60,"/>
+</layer>
+</layers>
+</document>

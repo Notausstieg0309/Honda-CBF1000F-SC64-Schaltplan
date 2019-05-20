@@ -1,0 +1,76 @@
+<document type="ProfiCAD ppd" version="9.0" fG="4e71602e-cd62-4e21-a0ea-3e8a99a93550" lG="9e90388c-6f5f-48d3-95b3-735670221eb4">
+<repo>
+<ppd name="Elektronik\passive Komponenten\Motorrad (Honda)\Masse.ppd" fG="3da572e5-4aa6-4847-901d-880376aa72ad" lG="d7f790a3-9690-4693-9219-307e1dc18d1c">
+<layers current="0">
+<layer name="0" v="1">
+<polyline op-lw="4" pts="-18,0,16,0,"/>
+<polyline pts="10,0,0,10,"/>
+<polyline pts="0,0,-10,10,"/>
+<polyline pts="-10,0,-20,10,"/>
+<outlet x="0" y="0"/>
+</layer>
+</layers>
+</ppd>
+</repo>
+<layers current="0">
+<layer name="0" v="1">
+<polyline op-lw="14" end="1" pts="-180,-95,-298,-95,"/>
+<rect left="-115" top="0" right="-15" bottom="20"/>
+<outlet x="-95" y="20"/>
+<outlet x="-75" y="20"/>
+<outlet x="-55" y="20"/>
+<outlet x="-35" y="20"/>
+<polyline op-lw="1" pts="-75,10,-75,1,"/>
+<polyline op-lw="1" pts="-75,10,-55,10,"/>
+<polyline op-lw="1" pts="-55,1,-55,10,"/>
+<polyline pts="-39,-26,-39,-36,"/>
+<polyline pts="-31,-36,-31,-26,"/>
+<arc left="-43" top="-50" right="-27" bottom="-35" bX="7" bY="8" eX="-7" eY="8"/>
+<ellipse left="-39" top="-46" right="-31" bottom="-38" op-lw="1"/>
+<polyline pts="-31,-26,-39,-26,"/>
+<polyline pts="-35,0,-35,-25,"/>
+<polyline pts="-35,-25,-55,0,"/>
+<ellipse left="-58" top="-69" right="-50" bottom="-61"/>
+<ellipse left="-97" top="-69" right="-89" bottom="-61"/>
+<polybezier op-lw="1" pts="-89,-67,-83,-72,-78,-72,-73,-65,-67,-58,-63,-58,-58,-63,"/>
+<polyline pts="-35,-50,-35,-65,"/>
+<polyline pts="-35,-65,-50,-65,"/>
+<rect left="-15" top="0" right="-235" bottom="-80"/>
+<polygon op-fd="1" op-fc="16777215" pts="-199,-108,-181,-108,-181,-68,-171,-68,-171,-60,-209,-60,-209,-68,-199,-68,"/>
+<polygon op-fd="1" op-fc="16777215" pts="-209,-52,-125,-52,-125,-40,-157,-40,-157,-12,-175,-12,-175,-40,-209,-40,"/>
+<polybezier pts="-175,-34,-179,-34,-189,-34,-189,-30,-189,-24,-149,-16,-149,-20,-149,-24,-155,-26,-157,-26,"/>
+<polybezier pts="-175,-28,-177,-28,-189,-30,-189,-24,-189,-18,-163,-14,-149,-14,"/>
+<polyline pts="-157,-34,-75,-34,"/>
+<polyline pts="-75,0,-75,-34,"/>
+<polyline pts="-149,-14,-97,-14,"/>
+<polyline pts="-97,-14,-97,0,"/>
+<polyline pts="-97,-65,-125,-65,"/>
+<polyline op-lw="14" pts="-304,-95,-304,-55,"/>
+<ellipse left="-332" top="-57" right="-272" bottom="3" op-fd="1" op-fc="16777215"/>
+<text x="-301" y="-26" f="155,0,0,0,Arial,000000" l="1" al="9">M</text>
+<elem lGuid="d7f790a3-9690-4693-9219-307e1dc18d1c" x="-302" y="45"/>
+<polyline pts="-302,3,-302,43,"/>
+<polyline op-lw="14" end="2" pts="78,-95,-161,-95,"/>
+<polygon op-fd="1" op-fc="16777215" pts="-153,-108,-135,-108,-135,-68,-125,-68,-125,-60,-163,-60,-163,-68,-153,-68,"/>
+<rect left="73" top="-80" right="205" bottom="0"/>
+<rect left="79" top="-108" right="93" bottom="-80"/>
+<elem lGuid="d7f790a3-9690-4693-9219-307e1dc18d1c" x="323" y="0"/>
+<polyline pts="283,-85,283,-105,"/>
+<polyline pts="283,-105,305,-105,"/>
+<polyline pts="306,-85,283,-85,"/>
+<arc left="303" top="-116" right="343" bottom="-76" bX="-16" bY="11" eX="-17" eY="-9"/>
+<ellipse left="313" top="-106" right="333" bottom="-86"/>
+<polyline op-lw="14" end="2" pts="283,-95,197,-95,"/>
+<rect left="184" top="-108" right="198" bottom="-80"/>
+<polyline op-lw="14" end="2" pts="185,-95,175,-95,"/>
+<polyline op-lw="14" end="2" pts="102,-95,92,-95,"/>
+<ellipse left="80" top="-72" right="94" bottom="-58" op-lw="1"/>
+<polyline op-lw="1" pts="83,-65,91,-65,"/>
+<polyline op-lw="1" pts="87,-69,87,-61,"/>
+<ellipse left="183" top="-72" right="197" bottom="-58" op-lw="1"/>
+<polyline op-lw="1" pts="186,-65,194,-65,"/>
+<polyline pts="323,-76,323,0,"/>
+<outlet x="-133" y="-102"/>
+</layer>
+</layers>
+</document>

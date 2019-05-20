@@ -1,0 +1,29 @@
+<document type="ProfiCAD ppd" version="9.0" fG="75f52e5b-a6ce-4bc3-9d7a-298e93399a61" lG="505192de-923b-41f6-a28e-454f6418be47">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-100" top="-100" right="100" bottom="100"/>
+<polyline op-lw="1" pts="-100,-60,100,-60,"/>
+<text x="1" y="-119" f="60,0,0,0,Arial,000000" l="1" al="9">ZÜNDSCHALTER</text>
+<text x="11" y="-79" f="60,0,0,0,Arial,000000" l="1" al="9">BAT1</text>
+<text x="71" y="-79" f="60,0,0,0,Arial,000000" l="1" al="9">IGN</text>
+<polyline op-lw="1" pts="-100,-100,-20,-60,"/>
+<polyline op-lw="1" pts="-20,-60,-20,-100,"/>
+<polyline op-lw="1" pts="40,-60,40,-100,"/>
+<polyline op-lw="1" pts="-20,-60,-20,100,"/>
+<polyline op-lw="1" pts="-100,-20,100,-20,"/>
+<polyline op-lw="1" pts="-100,20,100,20,"/>
+<polyline op-lw="1" pts="40,-60,40,100,"/>
+<ellipse left="0" top="-50" right="20" bottom="-30"/>
+<ellipse left="60" top="-50" right="80" bottom="-30"/>
+<polyline op-lw="1" pts="20,-40,60,-40,"/>
+<text x="-59" y="81" f="60,0,0,0,Arial,000000" l="1" al="9">FARBE</text>
+<roundRect left="-16" top="64" right="35" bottom="95" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="255"/>
+<roundRect left="44" top="64" right="95" bottom="95" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="255"/>
+<polyline op-lw="6" end="2" pts="96,80,44,80,"/>
+<text x="-59" y="-39" f="60,0,0,0,Arial,000000" l="1" al="9">ON</text>
+<text x="-59" y="1" f="60,0,0,0,Arial,000000" l="1" al="9">OFF</text>
+<polyline op-lw="1" pts="-100,60,100,60,"/>
+<text x="-59" y="41" f="60,0,0,0,Arial,000000" l="1" al="9">LOCK</text>
+</layer>
+</layers>
+</document>

@@ -1,0 +1,49 @@
+<document type="ProfiCAD ppd" version="9.0" fG="66ea3fbc-9a5f-4115-8460-8f221e1502df" lG="8568037f-1725-4372-b85b-b318c0413260">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-157" top="-45" right="158" bottom="45"/>
+<polyline pts="98,-45,98,45,">
+<op-lt head="dotted (.5x), ........................................" body="A,0,-.125"/>
+</polyline>
+<polyline pts="48,45,48,30,"/>
+<ellipse left="43" top="20" right="53" bottom="30"/>
+<ellipse left="43" top="-30" right="53" bottom="-20"/>
+<polyline pts="42,30,47,-19,"/>
+<polyline pts="53,-25,78,-25,"/>
+<ellipse left="-12" top="-3" right="-2" bottom="7"/>
+<polyline pts="28,-45,28,45,">
+<op-lt head="dotted (.5x), ........................................" body="A,0,-.125"/>
+</polyline>
+<polyline pts="78,45,78,-25,"/>
+<ellipse left="-52" top="-3" right="-42" bottom="7"/>
+<polyline pts="-77,-45,-77,45,">
+<op-lt head="dotted (.5x), ........................................" body="A,0,-.125"/>
+</polyline>
+<ellipse left="-102" top="20" right="-92" bottom="30"/>
+<ellipse left="-142" top="20" right="-132" bottom="30"/>
+<ellipse left="-122" top="20" right="-112" bottom="30"/>
+<polyline pts="-137,29,-137,44,"/>
+<polyline pts="-117,30,-117,45,"/>
+<polyline pts="-97,45,-97,29,"/>
+<polygon op-fd="1" op-fc="16777215" pts="-87,13,-146,13,-146,8,-121,8,-121,-51,-112,-51,-112,8,-87,8,"/>
+<polygon op-fd="1" op-fc="16777215" pts="3,13,-56,13,-56,8,-31,8,-31,-51,-22,-51,-22,8,3,8,"/>
+<ellipse left="-12" top="20" right="-2" bottom="30"/>
+<ellipse left="-52" top="20" right="-42" bottom="30"/>
+<polyline pts="-53,2,-67,2,"/>
+<polyline end="2" pts="-47,45,-47,30,"/>
+<polyline end="2" pts="-67,2,-67,45,"/>
+<polyline end="2" pts="13,2,13,45,"/>
+<polyline pts="13,2,-2,2,"/>
+<polyline end="2" pts="-7,45,-7,30,"/>
+<outlet x="-67" y="45"/>
+<outlet x="-47" y="45"/>
+<outlet x="-7" y="45"/>
+<outlet x="13" y="45"/>
+<outlet x="-97" y="45"/>
+<outlet x="-117" y="45"/>
+<outlet x="-137" y="45"/>
+<outlet x="48" y="45"/>
+<outlet x="78" y="45"/>
+</layer>
+</layers>
+</document>

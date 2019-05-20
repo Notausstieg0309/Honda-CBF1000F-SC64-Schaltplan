@@ -1,0 +1,18 @@
+<document type="ProfiCAD ppd" version="9.0" fG="b6eb9617-eff5-442a-ae0a-3a74efa79c6a" lG="212fbd0b-d103-4d27-ac6b-b8bfaf1adb26">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-40" top="-20" right="40" bottom="20"/>
+<outlet x="-20" y="20"/>
+<outlet x="0" y="20"/>
+<outlet x="20" y="20"/>
+<outlet x="20" y="-20"/>
+<outlet x="0" y="-20"/>
+<outlet x="-20" y="-20"/>
+<polyline op-lw="1" pts="-40,0,-10,0,"/>
+<polyline op-lw="1" pts="-10,0,-10,-10,"/>
+<polyline op-lw="1" pts="-10,-10,10,-10,"/>
+<polyline op-lw="1" pts="10,-10,10,0,"/>
+<polyline op-lw="1" pts="10,0,40,0,"/>
+</layer>
+</layers>
+</document>

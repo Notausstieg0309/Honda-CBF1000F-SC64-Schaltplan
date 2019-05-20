@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0" fG="66ea3fbc-9a5f-4115-8460-8f221e1502df" lG="275146df-fecd-42ce-9f73-b3d10a7791d5">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-40" top="-20" right="40" bottom="30"/>
+<outlet x="-20" y="-20"/>
+<outlet x="20" y="-20"/>
+<polyline pts="-20,-20,-20,-5,"/>
+<polyline pts="20,-20,20,-5,"/>
+<ellipse left="-25" top="-5" right="-15" bottom="5"/>
+<ellipse left="15" top="-5" right="25" bottom="5"/>
+<polygon op-fd="1" op-fc="16777215" pts="-30,15,30,15,30,20,5,20,5,45,-5,45,-5,20,-30,20,"/>
+</layer>
+</layers>
+</document>

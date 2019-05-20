@@ -1,0 +1,31 @@
+<document type="ProfiCAD ppd" version="9.0" fG="75f52e5b-a6ce-4bc3-9d7a-298e93399a61" lG="4de6cac9-ebf3-4c77-9974-e7d17fd86c2e">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-100" top="-80" right="100" bottom="80"/>
+<polyline op-lw="1" pts="-100,-40,100,-40,"/>
+<text x="1" y="-99" f="60,0,0,0,Arial,000000" l="1" al="9">MOTORABSTELLSCHALTER</text>
+<text x="11" y="-59" f="60,0,0,0,Arial,000000" l="1" al="9">BAT4</text>
+<text x="71" y="-59" f="60,0,0,0,Arial,000000" l="1" al="9">IG</text>
+<polyline op-lw="1" pts="-100,-80,-20,-40,"/>
+<polyline op-lw="1" pts="-20,-40,-20,-80,"/>
+<polyline op-lw="1" pts="40,-40,40,-80,"/>
+<polyline op-lw="1" pts="-20,-40,-20,80,"/>
+<polyline op-lw="1" pts="-100,0,100,0,"/>
+<polyline op-lw="1" pts="-100,40,100,40,"/>
+<polyline op-lw="1" pts="40,-40,40,80,"/>
+<ellipse left="0" top="10" right="20" bottom="30"/>
+<ellipse left="60" top="10" right="80" bottom="30"/>
+<polyline op-lw="1" pts="20,20,60,20,"/>
+<text x="-59" y="61" f="60,0,0,0,Arial,000000" l="1" al="9">FARBE</text>
+<roundRect left="-16" top="44" right="35" bottom="75" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="16777215"/>
+<roundRect left="44" top="44" right="95" bottom="75" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="0"/>
+<arc left="-75" top="-35" right="-45" bottom="-5" bX="9" bY="11" eX="-8" eY="12"/>
+<polyline pts="-75,-35,-45,-5,"/>
+<polyline pts="-75,-5,-45,-35,"/>
+<polygon op-fd="1" op-fc="0" pts="-51,-8,-48,-15,-44,-12,"/>
+<arc left="-75" top="5" right="-45" bottom="35" bX="9" bY="11" eX="-8" eY="12"/>
+<polygon op-fd="1" op-fc="0" pts="-51,32,-48,25,-44,28,"/>
+<polyline op-lw="6" end="2" pts="35,60,-15,60,"/>
+</layer>
+</layers>
+</document>

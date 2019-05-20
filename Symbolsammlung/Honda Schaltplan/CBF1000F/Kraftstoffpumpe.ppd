@@ -1,0 +1,21 @@
+<document type="ProfiCAD ppd" version="9.0" fG="d02cf22b-b9d8-45f5-a13f-0130bb042c02" lG="02c7ca60-4045-46ec-aa42-489876d4dc18">
+<layers current="0">
+<layer name="0" v="1">
+<ellipse left="-40" top="-40" right="40" bottom="40"/>
+<text x="-11" y="-15" f="70,0,0,0,Arial,000000" l="1" al="9">F</text>
+<text x="15" y="15" f="70,0,0,0,Arial,000000" l="1" al="9">P</text>
+<polyline pts="-20,20,20,-20,"/>
+<polyline pts="-40,0,-40,50,"/>
+<polyline pts="-40,50,40,50,"/>
+<polyline pts="40,50,40,0,"/>
+<polyline pts="-20,50,-20,80,"/>
+<polyline pts="-20,80,20,80,"/>
+<polyline pts="20,80,20,50,"/>
+<polyline pts="-20,60,20,60,"/>
+<rect left="-20" top="50" right="-10" bottom="60" op-fd="1" op-fc="0"/>
+<rect left="10" top="50" right="20" bottom="60" op-fd="1" op-fc="0"/>
+<outlet x="-10" y="80"/>
+<outlet x="10" y="80"/>
+</layer>
+</layers>
+</document>

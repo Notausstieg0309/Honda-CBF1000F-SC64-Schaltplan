@@ -1,0 +1,50 @@
+<document type="ProfiCAD ppd" version="9.0" fG="5d392054-abf9-49c9-b8eb-c98006052d5a" lG="6dda374c-2389-4862-b383-2e8ff8ea1b5d">
+<layers current="0">
+<layer name="0" v="1">
+<polybezier op-lw="1" pts="-52,-17,-47,-11,-47,-6,-55,-1,-62,5,-62,9,-57,14,"/>
+<ellipse left="-59" top="14" right="-51" bottom="22"/>
+<polyline pts="-55,22,-55,26,"/>
+<ellipse left="-59" top="-25" right="-51" bottom="-17"/>
+<polyline pts="-55,-55,-55,-25,"/>
+<polyline pts="-55,25,-55,65,"/>
+<text x="-65" y="41" f="60,0,0,0,Arial,000000" l="1" al="9">J</text>
+<polyline pts="-35,-55,-75,-55,"/>
+<polyline pts="-75,-55,-75,65,"/>
+<rect left="-95" top="-65" right="95" bottom="65"/>
+<outlet x="-75" y="65"/>
+<outlet x="-55" y="65"/>
+<ellipse left="31" top="14" right="39" bottom="22"/>
+<polyline pts="35,22,35,26,"/>
+<ellipse left="31" top="-25" right="39" bottom="-17"/>
+<polybezier op-lw="1" pts="18,-17,23,-11,23,-6,15,-1,8,5,8,9,13,14,"/>
+<ellipse left="11" top="14" right="19" bottom="22"/>
+<polyline pts="15,22,15,26,"/>
+<ellipse left="11" top="-25" right="19" bottom="-17"/>
+<ellipse left="-39" top="14" right="-31" bottom="22"/>
+<polyline pts="-35,22,-35,26,"/>
+<ellipse left="-39" top="-25" right="-31" bottom="-17"/>
+<polyline pts="-35,-55,-35,-25,"/>
+<polyline pts="15,-55,15,-25,"/>
+<polyline pts="35,-40,35,-25,"/>
+<polyline pts="35,25,35,65,"/>
+<polyline pts="15,25,15,65,"/>
+<polyline pts="-35,25,-35,65,"/>
+<text x="5" y="41" f="60,0,0,0,Arial,000000" l="1" al="9">G</text>
+<text x="25" y="41" f="60,0,0,0,Arial,000000" l="1" al="9">H</text>
+<text x="-45" y="41" f="60,0,0,0,Arial,000000" l="1" al="9">I</text>
+<ellipse left="-58" top="-58" right="-52" bottom="-52" op-fd="1" op-fc="0"/>
+<polyline pts="75,-55,15,-55,"/>
+<polyline pts="75,-55,75,65,"/>
+<polyline pts="-15,-65,-15,65,"/>
+<outlet x="-35" y="65"/>
+<outlet x="15" y="65"/>
+<outlet x="35" y="65"/>
+<polyline pts="35,-40,55,-40,"/>
+<polyline pts="55,-40,55,65,"/>
+<outlet x="75" y="65"/>
+<outlet x="55" y="65"/>
+<polybezier op-lw="1" pts="38,-17,43,-11,43,-6,35,-1,28,5,28,9,33,14,"/>
+<polybezier op-lw="1" pts="-32,-17,-27,-11,-27,-6,-35,-1,-42,5,-42,9,-37,14,"/>
+</layer>
+</layers>
+</document>

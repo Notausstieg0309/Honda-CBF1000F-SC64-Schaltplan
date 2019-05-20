@@ -1,0 +1,39 @@
+<document type="ProfiCAD ppd" version="9.0" fG="f87a5111-920a-4ae7-b598-b331a5ca164f" lG="af356c50-1cb9-438d-aee9-4183a6e6688c">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-61" top="-85" right="61" bottom="85"/>
+<polyline pts="61,-35,31,-35,"/>
+<polyline pts="31,-35,31,-20,"/>
+<polyline pts="61,-55,11,-55,"/>
+<polyline pts="11,-55,11,-25,"/>
+<polyline pts="61,-75,-9,-75,"/>
+<polyline pts="-9,-75,-9,-20,"/>
+<polyline pts="31,-20,26,-5,"/>
+<polyline pts="26,-5,21,-20,"/>
+<polyline pts="21,-20,16,-5,"/>
+<polyline pts="16,-5,11,-20,"/>
+<polyline pts="11,-20,6,-5,"/>
+<polyline pts="6,-5,1,-20,"/>
+<polyline pts="1,-20,-4,-5,"/>
+<polyline pts="-4,-5,-9,-20,"/>
+<polygon op-fd="1" op-fc="0" pts="11,-21,6,-36,6,-36,16,-36,16,-36,"/>
+<ellipse left="-16" top="7" right="39" bottom="62"/>
+<polyline pts="38,27,51,27,"/>
+<polyline pts="51,27,51,42,"/>
+<polyline pts="51,42,38,42,"/>
+<polyline pts="-15,27,-29,27,"/>
+<polyline pts="-29,27,-29,42,"/>
+<polyline pts="-29,42,-15,42,"/>
+<text x="11" y="35" a="900" f="100,0,0,0,Arial,000000" l="1" al="9">M</text>
+<polyline pts="51,35,61,35,"/>
+<polyline pts="61,75,-49,75,"/>
+<polyline pts="-49,75,-49,35,"/>
+<polyline pts="-49,35,-29,35,"/>
+<outlet x="61" y="35"/>
+<outlet x="61" y="75"/>
+<outlet x="61" y="-35"/>
+<outlet x="61" y="-55"/>
+<outlet x="61" y="-75"/>
+</layer>
+</layers>
+</document>

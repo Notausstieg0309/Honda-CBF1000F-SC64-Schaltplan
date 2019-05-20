@@ -1,0 +1,22 @@
+<document type="ProfiCAD ppd" version="9.0" fG="3ba25405-c55d-4e6a-aa52-8f741300c930" lG="f192b5f4-573b-428e-8d8b-4c8e0eb62cc2">
+<layers current="0">
+<layer name="0" v="1">
+<polybezier op-lw="1" pts="-40,-5,-35,-5,-38,2,-31,2,-23,2,-18,-12,-26,-12,-34,-12,-28,2,-20,2,-12,2,-5,-12,-13,-12,-21,-12,-17,2,-9,2,-1,2,-5,-5,0,-5,"/>
+<polyline pts="-35,10,-5,10,"/>
+<polyline pts="0,-5,10,-5,"/>
+<rect left="-45" top="-40" right="45" bottom="40"/>
+<ellipse left="-35" top="15" right="-25" bottom="25"/>
+<ellipse left="-15" top="15" right="-5" bottom="25"/>
+<polyline pts="-30,40,-30,25,"/>
+<polyline pts="-10,25,-10,40,"/>
+<outlet x="-10" y="40"/>
+<outlet x="-30" y="40"/>
+<polyline pts="10,40,10,-5,"/>
+<polyline pts="-40,-5,-40,-25,"/>
+<polyline pts="-40,-25,30,-25,"/>
+<polyline pts="30,-25,30,40,"/>
+<outlet x="10" y="40"/>
+<outlet x="30" y="40"/>
+</layer>
+</layers>
+</document>

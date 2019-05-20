@@ -1,0 +1,28 @@
+<document type="ProfiCAD ppd" version="10.0" fG="f1a251ec-37ea-49c2-9ed0-beb02619bfd2" lG="fb1fbc78-027c-431a-8180-dc4468bfd344">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="10,50,10,35,"/>
+<polyline pts="-10,50,-10,35,"/>
+<rect left="-50" top="-53" right="50" bottom="50"/>
+<polyline pts="-50,41,50,41,"/>
+<polyline pts="30,35,30,-10,"/>
+<polyline pts="-10,35,-30,35,"/>
+<polyline op-lw="1" pts="-30,35,-40,25,"/>
+<polyline op-lw="1" pts="-40,25,-10,15,"/>
+<polyline op-lw="1" pts="-10,15,-40,5,"/>
+<polyline op-lw="1" pts="-40,5,-10,-5,"/>
+<polyline op-lw="1" pts="-10,-5,-40,-15,"/>
+<polyline op-lw="1" pts="-40,-15,-10,-25,"/>
+<polyline op-lw="1" pts="-10,-25,-40,-35,"/>
+<polyline op-at="6" pts="64,-28,-20,6,"/>
+<ellipse left="24" top="-21" right="36" bottom="-9" op-lw="1" op-fd="1" op-fc="16777215"/>
+<arc left="64" top="-49" right="95" bottom="-19" bX="-5" bY="-14" eX="5" eY="14"/>
+<arc left="81" top="-56" right="112" bottom="-26" bX="5" bY="14" eX="-5" eY="-14"/>
+<polyline pts="74,-48,91,-55,"/>
+<polyline pts="80,-20,101,-27,"/>
+<polyline pts="30,35,10,35,"/>
+<outlet x="-10" y="50"/>
+<outlet x="10" y="50"/>
+</layer>
+</layers>
+</document>

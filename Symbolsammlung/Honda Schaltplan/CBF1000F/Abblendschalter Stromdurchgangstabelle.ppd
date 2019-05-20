@@ -1,0 +1,49 @@
+<document type="ProfiCAD ppd" version="9.0" fG="75f52e5b-a6ce-4bc3-9d7a-298e93399a61" lG="4f247dd6-7561-4523-8507-991da27887f2">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-140" top="-100" right="120" bottom="100"/>
+<polyline op-lw="1" pts="-140,-60,120,-60,"/>
+<text x="1" y="-119" f="60,0,0,0,Arial,000000" l="1" al="9">ABBLENDSCHALTER</text>
+<text x="-29" y="-79" f="60,0,0,0,Arial,000000" l="1" al="9">HL</text>
+<text x="31" y="-79" f="60,0,0,0,Arial,000000" l="1" al="9">Lo</text>
+<text x="91" y="-79" f="60,0,0,0,Arial,000000" l="1" al="9">Hi</text>
+<polyline op-lw="1" pts="-140,-100,-60,-60,"/>
+<polyline op-lw="1" pts="-60,-60,-60,-100,"/>
+<polyline op-lw="1" pts="0,-60,0,-100,"/>
+<polyline op-lw="1" pts="60,-60,60,-100,"/>
+<polyline op-lw="1" pts="-60,-60,-60,100,"/>
+<polyline op-lw="1" pts="-140,-20,120,-20,"/>
+<polyline op-lw="1" pts="-140,20,120,20,"/>
+<polyline op-lw="1" pts="-140,60,120,60,"/>
+<polyline op-lw="1" pts="0,-60,0,100,"/>
+<polyline op-lw="1" pts="60,-60,60,100,"/>
+<ellipse left="80" top="-50" right="100" bottom="-30"/>
+<polyline op-lw="1" pts="-20,-40,80,-40,"/>
+<text x="-99" y="1" f="60,0,0,0,Arial,000000" l="1" al="9">(N)</text>
+<text x="-99" y="81" f="60,0,0,0,Arial,000000" l="1" al="9">FARBE</text>
+<roundRect left="-56" top="64" right="-5" bottom="95" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="16737536"/>
+<roundRect left="64" top="64" right="115" bottom="95" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="16737536"/>
+<ellipse left="-40" top="-50" right="-20" bottom="-30"/>
+<polybezier pts="-96,30,-98,36,-98,44,-96,50,"/>
+<polybezier pts="-95,30,-88,30,-79,35,-79,40,"/>
+<polybezier pts="-95,50,-88,50,-79,46,-79,41,"/>
+<polyline op-lw="1" pts="-100,33,-114,36,"/>
+<polyline op-lw="1" pts="-100,37,-114,40,"/>
+<polyline op-lw="1" pts="-100,41,-114,44,"/>
+<polyline op-lw="1" pts="-100,45,-114,48,"/>
+<polyline op-lw="1" pts="-100,49,-114,52,"/>
+<polybezier pts="-96,-50,-98,-44,-98,-36,-96,-30,"/>
+<polybezier pts="-95,-50,-88,-50,-79,-45,-79,-40,"/>
+<polybezier pts="-95,-30,-88,-30,-79,-34,-79,-39,"/>
+<polyline op-lw="1" pts="-100,-49,-114,-49,"/>
+<polyline op-lw="1" pts="-100,-45,-114,-45,"/>
+<polyline op-lw="1" pts="-100,-41,-114,-41,"/>
+<polyline op-lw="1" pts="-100,-37,-114,-37,"/>
+<polyline op-lw="1" pts="-100,-33,-114,-33,"/>
+<ellipse left="80" top="-10" right="100" bottom="10"/>
+<polyline op-lw="1" pts="-20,0,80,0,"/>
+<ellipse left="-40" top="-10" right="-20" bottom="10"/>
+<polyline op-lw="6" op-lc="16777215" end="1" pts="-52,80,-8,80,"/>
+</layer>
+</layers>
+</document>

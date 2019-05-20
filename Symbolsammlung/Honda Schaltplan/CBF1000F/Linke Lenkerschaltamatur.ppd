@@ -1,0 +1,55 @@
+<document type="ProfiCAD ppd" version="9.0" fG="66ea3fbc-9a5f-4115-8460-8f221e1502df" lG="ed80b95b-2a53-4a29-8f1c-3eb63128f768">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-170" top="-44" right="170" bottom="46"/>
+<outlet x="110" y="-44"/>
+<outlet x="150" y="-44"/>
+<polyline pts="110,-44,110,-29,"/>
+<polyline pts="150,-44,150,-29,"/>
+<ellipse left="105" top="-29" right="115" bottom="-19"/>
+<ellipse left="145" top="-29" right="155" bottom="-19"/>
+<polygon op-fd="1" op-fc="16777215" pts="100,-9,160,-9,160,-4,135,-4,135,56,125,56,125,-4,100,-4,"/>
+<polyline pts="85,-44,85,46,">
+<op-lt head="dotted (.5x), ........................................" body="A,0,-.125"/>
+</polyline>
+<outlet x="70" y="-44"/>
+<outlet x="50" y="-44"/>
+<polyline pts="70,-44,70,36,"/>
+<polyline pts="70,36,40,36,"/>
+<polyline pts="40,36,40,26,"/>
+<ellipse left="35" top="16" right="45" bottom="26"/>
+<ellipse left="50" top="-29" right="60" bottom="-19"/>
+<ellipse left="20" top="-29" right="30" bottom="-19"/>
+<polyline pts="39,16,28,-36,"/>
+<polyline pts="50,-44,50,-36,"/>
+<polyline pts="50,-36,54,-36,"/>
+<polyline pts="55,-36,55,-30,"/>
+<ellipse left="-25" top="-29" right="-15" bottom="-19"/>
+<polyline pts="5,-44,5,46,">
+<op-lt head="dotted (.5x), ........................................" body="A,0,-.125"/>
+</polyline>
+<polygon op-fd="1" op-fc="16777215" pts="-70,-9,-10,-9,-10,-4,-35,-4,-35,56,-45,56,-45,-4,-70,-4,"/>
+<polyline pts="-20,-19,-20,-14,"/>
+<polyline pts="-20,-14,55,-14,"/>
+<polyline pts="55,-14,55,-19,"/>
+<ellipse left="-65" top="-29" right="-55" bottom="-19"/>
+<polyline pts="-60,-44,-60,-29,"/>
+<polyline pts="-20,-44,-20,-29,"/>
+<outlet x="-20" y="-44"/>
+<outlet x="-60" y="-44"/>
+<polyline pts="-85,-44,-85,46,">
+<op-lt head="dotted (.5x), ........................................" body="A,0,-.125"/>
+</polyline>
+<ellipse left="-115" top="21" right="-105" bottom="31"/>
+<outlet x="-110" y="-44"/>
+<outlet x="-130" y="-44"/>
+<outlet x="-150" y="-44"/>
+<ellipse left="-155" top="21" right="-145" bottom="31"/>
+<ellipse left="-135" top="-29" right="-125" bottom="-19"/>
+<polyline pts="-150,-44,-150,21,"/>
+<polyline pts="-130,-44,-130,-29,"/>
+<polyline pts="-110,-44,-110,21,"/>
+<polyline pts="-130,-19,-130,36,"/>
+</layer>
+</layers>
+</document>

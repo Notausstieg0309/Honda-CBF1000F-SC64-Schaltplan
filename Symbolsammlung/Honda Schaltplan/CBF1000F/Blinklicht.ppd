@@ -1,0 +1,17 @@
+<document type="ProfiCAD ppd" version="9.0" fG="a22a3e5d-64cb-460e-bbe7-a10114dc1f29" lG="1c694838-6035-4212-a8b1-6e90d58202dc">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="0" top="-45" right="80" bottom="45"/>
+<polyline pts="0,-30,80,-30,"/>
+<polyline pts="80,30,0,30,"/>
+<arc left="-135" top="-75" right="15" bottom="75" bX="59" bY="-45" eX="60" eY="45" end="2"/>
+<polyline pts="0,-30,-80,-60,"/>
+<polyline pts="0,30,-80,60,"/>
+<polyline op-lw="1" pts="-70,-56,-70,-15,"/>
+<polyline op-lw="1" pts="-70,56,-70,15,"/>
+<outlet x="80" y="-30"/>
+<outlet x="80" y="30"/>
+<polybezier op-lw="1" pts="-70,-15,-60,-15,-60,0,-70,0,-80,0,-80,-10,-70,-10,-60,-10,-60,5,-70,5,-80,5,-80,-5,-70,-5,-60,-5,-60,10,-70,10,-80,10,-80,0,-70,0,-60,0,-60,15,-70,15,"/>
+</layer>
+</layers>
+</document>

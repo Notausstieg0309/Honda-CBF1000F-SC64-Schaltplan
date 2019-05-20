@@ -1,0 +1,33 @@
+<document type="ProfiCAD ppd" version="9.0" fG="75f52e5b-a6ce-4bc3-9d7a-298e93399a61" lG="5d0421ea-1fb5-4a77-9186-e2f5ff9e34e3">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-100" top="-80" right="100" bottom="80"/>
+<polyline op-lw="1" pts="-100,-40,100,-40,"/>
+<text x="1" y="-99" f="60,0,0,0,Arial,000000" l="1" al="9">HUPENSCHALTER</text>
+<text x="11" y="-59" f="60,0,0,0,Arial,000000" l="1" al="9">Horn</text>
+<text x="71" y="-59" f="60,0,0,0,Arial,000000" l="1" al="9">BAT</text>
+<polyline op-lw="1" pts="-100,-80,-20,-40,"/>
+<polyline op-lw="1" pts="-20,-40,-20,-80,"/>
+<polyline op-lw="1" pts="40,-40,40,-80,"/>
+<polyline op-lw="1" pts="-20,-40,-20,80,"/>
+<polyline op-lw="1" pts="-100,0,100,0,"/>
+<polyline op-lw="1" pts="-100,40,100,40,"/>
+<polyline op-lw="1" pts="40,-40,40,80,"/>
+<ellipse left="0" top="10" right="20" bottom="30"/>
+<ellipse left="60" top="10" right="80" bottom="30"/>
+<polyline op-lw="1" pts="20,20,60,20,"/>
+<text x="-59" y="61" f="60,0,0,0,Arial,000000" l="1" al="9">FARBE</text>
+<roundRect left="-16" top="44" right="35" bottom="75" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="65280"/>
+<roundRect left="44" top="44" right="95" bottom="75" rX="12" rY="12" op-lw="1" op-fd="1" op-fc="0"/>
+<polyline op-lw="6" op-lc="17358" end="2" pts="96,60,44,60,"/>
+<polyline op-lw="3" pts="-84,-12,-38,-12,"/>
+<polyline op-lw="3" pts="-72,-14,-72,-28,"/>
+<polyline op-lw="3" pts="-72,-28,-48,-28,"/>
+<polyline op-lw="3" pts="-48,-28,-48,-14,"/>
+<polyline op-lw="3" pts="-84,28,-38,28,"/>
+<polyline op-lw="3" pts="-72,26,-72,22,"/>
+<polyline op-lw="3" pts="-72,22,-48,22,"/>
+<polyline op-lw="3" pts="-48,22,-48,26,"/>
+</layer>
+</layers>
+</document>

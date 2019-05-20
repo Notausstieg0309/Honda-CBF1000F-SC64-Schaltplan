@@ -1,0 +1,14 @@
+<document type="ProfiCAD ppd" version="9.0" fG="4e895870-5efc-411f-b3eb-4cfd9a780e0b" lG="a083f8bb-097b-4235-a7ae-11214ab699d5">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-10,-80,10,-80,"/>
+<polyline pts="10,-80,10,-58,"/>
+<polyline pts="-10,-58,-10,-80,"/>
+<outlet x="0" y="-80"/>
+<arc left="-20" top="-60" right="20" bottom="-20" bX="-10" bY="-16" eX="10" eY="-17"/>
+<ellipse left="-10" top="-50" right="10" bottom="-30" op-lw="1"/>
+<rect left="-40" top="-20" right="40" bottom="10"/>
+<rect left="-30" top="10" right="30" bottom="70"/>
+</layer>
+</layers>
+</document>

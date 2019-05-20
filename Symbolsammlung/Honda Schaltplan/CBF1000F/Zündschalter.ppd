@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0" fG="75f52e5b-a6ce-4bc3-9d7a-298e93399a61" lG="bc7b1c64-d58c-4afb-881f-f2ef66e448aa">
+<layers current="0">
+<layer name="0" v="1">
+<rect left="-50" top="-50" right="50" bottom="40"/>
+<polyline pts="-10,40,-10,30,"/>
+<ellipse left="-15" top="20" right="-5" bottom="30"/>
+<polyline pts="10,40,10,30,"/>
+<ellipse left="5" top="20" right="15" bottom="30"/>
+<text x="-10" y="11" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">Ig</text>
+<text x="10" y="11" a="900" f="60,0,0,0,Arial,000000" l="1" al="2">BAT1</text>
+<outlet x="-10" y="40"/>
+<outlet x="10" y="40"/>
+</layer>
+</layers>
+</document>

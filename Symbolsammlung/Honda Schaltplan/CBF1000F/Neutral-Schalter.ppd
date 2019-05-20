@@ -1,0 +1,15 @@
+<document type="ProfiCAD ppd" version="9.0" fG="4e895870-5efc-411f-b3eb-4cfd9a780e0b" lG="8c493043-6bb7-4470-aa92-c80c5a3bf91d">
+<layers current="0">
+<layer name="0" v="1">
+<polyline pts="-10,-30,10,-30,"/>
+<polyline pts="10,-30,10,-8,"/>
+<polyline pts="-10,-8,-10,-30,"/>
+<outlet x="0" y="-30"/>
+<ellipse left="-30" top="-10" right="30" bottom="50"/>
+<pie left="-30" top="-10" right="30" bottom="50" bX="9" bY="-28" eX="-9" eY="-28" op-fd="1" op-fc="0"/>
+<pie left="-30" top="-10" right="30" bottom="50" bX="28" bY="-9" eX="18" eY="-23" op-fd="1" op-fc="0"/>
+<ellipse left="-20" top="0" right="20" bottom="40" op-fd="1" op-fc="16777215"/>
+<outlet x="0" y="50"/>
+</layer>
+</layers>
+</document>

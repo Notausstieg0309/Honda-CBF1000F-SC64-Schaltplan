@@ -1,0 +1,11 @@
+<document type="ProfiCAD ppd" version="9.0" fG="aa5762a9-0e6a-4ead-a31d-64b689f8f6d2" lG="c5353ea7-01bf-4db1-b9ee-0fbb9abe8309">
+<layers current="0">
+<layer name="0" v="1">
+<ellipse left="17" top="-4" right="25" bottom="4"/>
+<polybezier op-lw="1" pts="20,5,20,20,0,20,0,0,0,-20,-20,-20,-20,-5,"/>
+<ellipse left="-24" top="-4" right="-16" bottom="4"/>
+<outlet x="25" y="0"/>
+<outlet x="-24" y="0"/>
+</layer>
+</layers>
+</document>
