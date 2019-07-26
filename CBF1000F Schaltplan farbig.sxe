@@ -1,10 +1,10 @@
 <document type="ProfiCAD sxe" version="10.0">
 <fonts letter="155,0,0,0,Lucida Sans Unicode,000000" text="110,0,0,0,Lucida Sans Unicode,000000" type="85,0,0,0,Arial,FF00FF" refs="85,0,0,0,Arial,008000" cross_refs="85,0,0,1,Arial,0000FF" outlets="85,0,0,0,Arial,000000" reports="85,0,0,0,Arial,000000"/>
 <PrintSettings PrinterName="PDFCreator" PaperSize="66" FormName="A2" SheetSizeX="594" SheetSizeY="420" WantsCustom="0" CustomSizeX="600" CustomSizeY="410"/>
-<PrintReportSettings paper_size_enum="9" sheet_size_x="297" sheet_size_y="210" color_bg_even="15727333" color_bg_header="8454143" color_grid="16777215"/>
-<PrinterSettings PaperSizeX="5940" PaperSizeY="4201" PhysicalOffestTenthMm_X="0" PhysicalOffestTenthMm_Y="0"/>
+<PrintReportSettings paper_size_enum="8" sheet_size_x="297" sheet_size_y="420" color_bg_even="15727333" color_bg_header="8454143" color_grid="16777215"/>
+<PrinterSettings PaperSizeX="4199" PaperSizeY="2970" PhysicalOffestTenthMm_X="0" PhysicalOffestTenthMm_Y="0"/>
 <tb use="1" name="C:\Users\Public\Documents\ProfiCAD Library\_TB\standard9.ptb"/>
-<PageSettings bgColor="FFFFFF" zoom="300" frame="NO" showT="NO" showV="NO" includeMargins="NO"/>
+<PageSettings bgColor="FFFFFF" zoom="75" frame="NO" showT="NO" showV="NO" includeMargins="NO"/>
 <RefGridSettings FieldSize="50"/>
 <NumberingWire Digits="3" TypeRenumbering="0" ShowWireName="0" WireLabelDist_a="4" WireLabelDist_b="7" WireLabelDist_c="7"/>
 <summary>
@@ -3912,7 +3912,7 @@ RELAIS</text>
 <wire op-lw="4" op-lc="4960524" op-contour2="15658734" pts="4094,1842,4094,1727,4364,1727,">
 <op-lt head="dashed (.5x), _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _" body="A,.25,-.125"/>
 </wire>
-<wire op-lw="4" op-lc="4960524" op-contour2="15658734" pts="4094,1727,4094,1347,4254,1347,4254,567," drop1="1">
+<wire op-lw="4" op-lc="4960524" op-contour2="15658734" pts="4094,1727,4094,1485,4254,1485,4254,567," drop1="1">
 <op-lt head="dashed (.5x), _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _" body="A,.25,-.125"/>
 </wire>
 <wire op-lw="4" op-lc="4960524" pts="4404,1747,4494,1747,4494,2014,4532,2014,"/>
@@ -4024,10 +4024,10 @@ RELAIS</text>
 <wire op-lw="4" op-lc="4960524" op-contour2="16737536" pts="4174,1842,4174,1707,4864,1707,4864,1807,5245,1807,">
 <op-lt head="dashed (.5x), _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _" body="A,.25,-.125"/>
 </wire>
-<wire op-lw="4" op-lc="4960524" op-contour2="15658734" pts="4194,1842,4194,1447,3714,1447,3714,567,">
+<wire op-lw="4" op-lc="4960524" op-contour2="15658734" pts="4194,1842,4194,1467,3714,1467,3714,567,">
 <op-lt head="dashed (.5x), _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _" body="A,.25,-.125"/>
 </wire>
-<wire op-lw="4" op-lc="4960524" op-contour2="15658734" pts="4214,1842,4214,1467,3734,1467,3734,567,">
+<wire op-lw="4" op-lc="4960524" op-contour2="15658734" pts="4214,1842,4214,1449,3734,1449,3734,567,">
 <op-lt head="dashed (.5x), _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _" body="A,.25,-.125"/>
 </wire>
 <wire op-lw="4" op-lc="65280" op-contour2="0" pts="3294,1547,4314,1547,4314,567,">
