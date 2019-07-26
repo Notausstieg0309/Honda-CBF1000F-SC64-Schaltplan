@@ -5732,7 +5732,7 @@ R</text>
 <text x="5163" y="2857" f="60,0,0,0,Arial,000000" l="1" al="9">2P
 O</text>
 <text x="5151" y="2642" f="60,0,0,0,Arial,000000" l="1" al="2">2P</text>
-<text x="5163" y="2452" f="60,0,0,0,Arial,000000" l="1" al="9">2P</text>
+<text x="5163" y="2452" f="60,0,0,0,Arial,000000" l="1" al="9">3P</text>
 <text x="5163" y="2142" f="60,0,0,0,Arial,000000" l="1" al="9">2P
 Lb</text>
 <text x="5406" y="3377" f="60,0,0,0,Arial,000000" l="1" al="2">14P</text>
@@ -5913,7 +5913,7 @@ OFFIZIELLEN HONDA-SCHALTPLAN</text>
 <text x="818" y="1143" f="60,0,0,0,Arial,000000" l="1" al="9">Bl/W</text>
 <text x="818" y="1173" f="60,0,0,0,Arial,000000" l="1" al="9">W/R</text>
 <text x="818" y="1203" f="60,0,0,0,Arial,000000" l="1" al="9">Gr/Bl</text>
-<text x="5158" y="4168" f="100,0,1,0,Arial,000000" l="1" al="9">Der Autor übernimmt keinerlei Haftung/Garantie für die Vollständigkeit und Korrektheit dieses Schaltplans.</text>
+<text x="5138" y="4168" f="100,0,1,0,Arial,000000" l="1" al="9">Der Autor übernimmt keinerlei Haftung/Garantie für die Vollständigkeit und Korrektheit dieses Schaltplans.</text>
 <ellipse left="2401" top="2589" right="2417" bottom="2605" op-fd="1" op-fc="4960524"/>
 <elem lG="a5df7bd8-f90b-4aef-b233-af4a8170f1ba" x="3006" y="1197" a="-1800">
 <attributes>
