@@ -4,7 +4,7 @@
 <PrintReportSettings paper_size_enum="8" sheet_size_x="297" sheet_size_y="420" color_bg_even="15727333" color_bg_header="8454143" color_grid="16777215"/>
 <PrinterSettings PaperSizeX="4199" PaperSizeY="2970" PhysicalOffestTenthMm_X="0" PhysicalOffestTenthMm_Y="0"/>
 <tb use="1" name="C:\Users\Public\Documents\ProfiCAD Library\_TB\standard9.ptb"/>
-<PageSettings bgColor="FFFFFF" zoom="75" frame="NO" showT="NO" showV="NO" includeMargins="NO"/>
+<PageSettings bgColor="FFFFFF" zoom="200" frame="NO" showT="NO" showV="NO" includeMargins="NO"/>
 <RefGridSettings FieldSize="50"/>
 <NumberingWire Digits="3" TypeRenumbering="0" ShowWireName="0" WireLabelDist_a="4" WireLabelDist_b="7" WireLabelDist_c="7"/>
 <summary>
@@ -4922,10 +4922,10 @@ STANDSENSOR</text>
 <rect left="5065" top="2607" right="5117" bottom="2627" op-lw="1" op-lc="16777215" op-fd="1" op-fc="16777215">
 <text font="60,0,0,0,Arial,000000" turns="0">Bl/Br</text>
 </rect>
-<rect left="5060" top="2787" right="5112" bottom="2807" op-lw="1" op-lc="16777215" op-fd="1" op-fc="16777215">
+<rect left="5065" top="2787" right="5117" bottom="2807" op-lw="1" op-lc="16777215" op-fd="1" op-fc="16777215">
 <text font="60,0,0,0,Arial,000000" turns="0">G</text>
 </rect>
-<rect left="5060" top="2807" right="5112" bottom="2827" op-lw="1" op-lc="16777215" op-fd="1" op-fc="16777215">
+<rect left="5065" top="2807" right="5117" bottom="2827" op-lw="1" op-lc="16777215" op-fd="1" op-fc="16777215">
 <text font="60,0,0,0,Arial,000000" turns="0">O</text>
 </rect>
 <rect left="5210" top="2072" right="5262" bottom="2092" op-lw="1" op-lc="16777215" op-fd="1" op-fc="16777215">
@@ -5662,7 +5662,7 @@ G</text>
 <rect left="575" top="2172" right="627" bottom="2192" op-lw="1" op-lc="16777215" op-fd="1" op-fc="16777215">
 <text font="60,0,0,0,Arial,000000" turns="0">G</text>
 </rect>
-<rect left="585" top="2112" right="637" bottom="2132" op-lw="1" op-lc="16777215" op-fd="1" op-fc="16777215">
+<rect left="575" top="2112" right="627" bottom="2132" op-lw="1" op-lc="16777215" op-fd="1" op-fc="16777215">
 <text font="60,0,0,0,Arial,000000" turns="0">Lb</text>
 </rect>
 <rect left="182" top="331" right="932" bottom="646"/>
